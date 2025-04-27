@@ -1,10 +1,10 @@
 [{
   "news_items": [
     {
-      "title": "Hull and East Yorkshire Combined Authority to begin work",
-      "description": "The long-awaited Hull and East Yorkshire Combined Authority can now officially begin its work after the final steps were taken by the Government to create the new body.",
+      "title": "Combined Authority Mayoral election update",
+      "description": "Voters will go to the polls on Thursday 1 May to decide who should be the first elected mayor for Hull and East Yorkshire.",
       "image_url": "//www.hull.gov.uk/images/HEYCA_headers.jpg",
-      "link_url": "https://www.hullandeastyorkshire.gov.uk/news/article/11/hull-and-east-yorkshire-combined-authority-to-begin-work"
+      "link_url": "https://www.hullandeastyorkshire.gov.uk/news/article/18/combined-authority-mayoral-election-update"
     },
     {
       "title": "Proposed memorial gardens",
@@ -13,10 +13,10 @@
       "link_url": "https://yoursay.hull.gov.uk/proposed-memorial-gardens"
     },
     {
-      "title": "New character appraisal adopted for Hessle Road Conservation Area",
-      "description": "A new conservation area character appraisal and management plan for Hessle Road Conservation Area was adopted this month following public consultation.",
-      "image_url": "//www.hull.gov.uk/images/Henry_Hird_Jewellers_777x437.jpg",
-      "link_url": "https://news.hull.gov.uk/24/03/2025/new-character-appraisal-adopted-for-hessle-road-conservation-area/"
+      "title": "How often do you feel lonely or isolated?",
+      "description": "The Imperial College London are investigating social isolation and loneliness in the population. You can take part by completing the brief survey.",
+      "image_url": "//www.hull.gov.uk/images/lonely_woman.jpg",
+      "link_url": "https://imperial.eu.qualtrics.com/jfe/form/SV_8xqfiwzenpsjstU"
     },
     {
       "title": "The People's Panel - Have your say",
