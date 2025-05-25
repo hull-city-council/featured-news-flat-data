@@ -1,10 +1,10 @@
 [{
   "news_items": [
     {
-      "title": "Combined Authority Mayoral election",
-      "description": "The Hull and East Yorkshire Combined Authority (HEYCA) has congratulated Luke Campbell on his election as the region’s first mayor.",
+      "title": "Mayor to champion Hull and East Yorkshire at major business event",
+      "description": "Luke will meet with investors, developers, and businesses across all sectors looking to establish or enhance their presence in Hull and East Yorkshire.",
       "image_url": "//www.hull.gov.uk/images/HEYCA_headers.jpg",
-      "link_url": "https://www.hullandeastyorkshire.gov.uk/news/article/20/hull-and-east-yorkshire-combined-authority-congratulates-new-mayor"
+      "link_url": "https://www.hullandeastyorkshire.gov.uk/news/article/25/mayor-to-champion-hull-and-east-yorkshire-at-major-business-event"
     },
     {
       "title": "The Right to Grow scheme is now open for applications",
@@ -13,16 +13,16 @@
       "link_url": "https://www.hull.gov.uk/neighbourhoods-1/right-grow"
     },
     {
-      "title": "How often do you feel lonely or isolated?",
-      "description": "The Imperial College London are investigating social isolation and loneliness in the population. You can take part by completing the brief survey.",
-      "image_url": "//www.hull.gov.uk/images/lonely_woman.jpg",
-      "link_url": "https://imperial.eu.qualtrics.com/jfe/form/SV_8xqfiwzenpsjstU"
+      "title": "Let's Go Electric!",
+      "description": "Hull City Council and East Riding of Yorkshire Council are teaming up with Let's Experience Electric to host the area’s first electric vehicle event at the Priory Park and Ride site.",
+      "image_url": "//www.hull.gov.uk/images/Let_s_Go_Electric_social.jpg",
+      "link_url": "https://www.travelhull.co.uk/news/article/130/let-s-go-electric-"
     },
     {
-      "title": "The People's Panel - Have your say",
-      "description": "Tell us what you think about things that affect you, your family, your neighbourhood and the local area, and be entered into a prize draw to win up to £250 in high street shopping vouchers.",
-      "image_url": "//www.hull.gov.uk/images/People_s_panel_1.JPG",
-      "link_url": "https://yoursay.hull.gov.uk/peoples-panel"
+      "title": "High ropes course open for bookings",
+      "description": "Hull Adventure Centre’s exhilarating new high ropes course is open to be public.",
+      "image_url": "//www.hull.gov.uk/images/High_ropes.jpg",
+      "link_url": "https://news.hull.gov.uk/15/05/2025/high-ropes-course-open-for-bookings/"
     }
   ]
 }]
