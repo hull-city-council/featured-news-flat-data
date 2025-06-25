@@ -23,6 +23,6 @@ jobs:
       - name: Fetch data 
         uses: githubocto/flat@mr/node16
         with:
-          http_url: ${{ secrets.APIFY_TOKEN }} # The data to fetch
+          http_url: ${{ secrets.LAMBDA_ENDPOINT }} # The data to fetch
           mask: true
           downloaded_filename: featured-news.json # The http_url gets saved and renamed in our repository
